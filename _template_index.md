@@ -6,17 +6,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
 
-[Link to new page](new-page).
-
-[Link to Concurrent Database Access page](docs/Concurrent Database Access).
-
-[Link to Concurrent xxx page]({% post_url 2018-12-03-welcome-to-jekyll %}).
-
-    {% for post in site.categories['jekyll update'] %}
-	[Link to {{ post.date | date_to_string }}]({{ post.url }}">{{ post.title }}).
-    {% endfor %}
-
-
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
