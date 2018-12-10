@@ -174,4 +174,6 @@ Now you should be able to use your database and be sure - it's thread safe.
   [5]: http://developer.android.com/reference/java/util/concurrent/atomic/AtomicInteger.html
   [6]: /assets/images/articles/concurrent-db-access.png
   [7]: https://github.com/dmytrodanylyk/android-concurrent-database
+  
+[back](/)
 
