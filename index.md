@@ -18,7 +18,7 @@ layout: default
 
 Exploring the strategies for data persistence:
 
-*   [Concurrent Database Access](docs/Concurrent Database Access).
+*   [Concurrent Database Access](docs/Concurrent Database Access)(Database).
 
 # [](#header-4) Libraries
 
