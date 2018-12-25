@@ -24,8 +24,8 @@ Exploring the strategies for data persistence:
 
 Covers usage of more advanced third-party libraries and SDKs that save time and improve the maintainability of your code:
 
-*   [Retrofit 2 — How to Upload Files to Server](https://futurestud.io/tutorials/retrofit-2-how-to-upload-files-to-server) (Networking).
-*   [Display progress of multipart request with Retrofit and RxJava](https://medium.com/@PaulinaSadowska/display-progress-of-multipart-request-with-retrofit-and-rxjava-23a4a779e6ba) (Networking).
+*   [Retrofit 2 — How to Upload Files to Server](https://futurestud.io/tutorials/retrofit-2-how-to-upload-files-to-server){target="_blank"} (Networking).
+*   [Display progress of multipart request with Retrofit and RxJava](https://medium.com/@PaulinaSadowska/display-progress-of-multipart-request-with-retrofit-and-rxjava-23a4a779e6ba){target="_blank"} (Networking).
 
 # [](#header-5) Test Link 
 
