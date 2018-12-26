@@ -13,6 +13,7 @@ layout: default
 *   [New page](new-page).
 *   [Wellcome to jekyll]({% post_url 2018-12-03-welcome-to-jekyll %}).
 *   [Android crash reporting libraries](https://www.appbrain.com/stats/libraries/tag/crash-reporting/android-crash-reporting-libraries).
+*   [Edittext view with keyboard number only]({% post_url 2019-12-26-edittext-view-with-keyboard-number-only %}).
 
 # [](#header-3) Persistence
 
