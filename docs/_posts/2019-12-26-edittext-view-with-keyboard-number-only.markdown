@@ -37,5 +37,5 @@ myEditText.setTransformationMethod(new NumericKeyBoardTransformationMethod());
 
 
 **On stackoverflow**
-1.  [link1](https://stackoverflow.com/questions/13817521/edittext-view-with-keyboard-number-only/13817572){:target="_blank"}
-2.  [link2](https://stackoverflow.com/questions/37525471/android-keyboard-showing-numbers){:target="_blank"}
+*   [link1](https://stackoverflow.com/questions/13817521/edittext-view-with-keyboard-number-only/13817572){:target="_blank"}
+*   [link2](https://stackoverflow.com/questions/37525471/android-keyboard-showing-numbers){:target="_blank"}
