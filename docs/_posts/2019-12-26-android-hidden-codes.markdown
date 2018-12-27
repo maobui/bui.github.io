@@ -12,7 +12,7 @@ categories: blog
 | *#*#4636#*#*                  | Display information about Phone, Battery and Usage statistics                         |
 | *#*#7780#*#*                  | Restting your phone to factory state-Only deletes application data and applications   | 
 | *#*#4636#*#* 	                | Display information about Phone, Battery and Usage statistics                         |
-| *#*#7780#*#* 	                | Restting your phone to factory state-Only deletes | application data and applications |
+| *#*#7780#*#* 	                | Restting your phone to factory state-Only deletes application data and applications   |
 | *2767*3855# 	                | It’s a complete wiping of your mobile also it reinstalls the phones firmware          |
 | *#*#34971539#*#* 	            | Shows completes information about the camera                                          |
 | *#*#7594#*#* 	                | Changing the power button behavior-Enables direct poweroff once the code enabled      |
@@ -43,7 +43,6 @@ categories: blog
 | *#*#8351#*#* 	                | Enables voice dialing logging mode                                                    |
 | *#*#8350#*#* 	                | Disables voice dialing logging mode                                                   |
 | ##778 (+call) 	            | Brings up Epst menu                                                                   |
-|
 
 **Source**
 *   [xda-forum](https://www.xda-developers.com/codes-hidden-android/){:target="_blank"}
