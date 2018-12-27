@@ -14,6 +14,7 @@ layout: default
 *   [Wellcome to jekyll]({% post_url 2018-12-03-welcome-to-jekyll %}).
 *   [Android crash reporting libraries](https://www.appbrain.com/stats/libraries/tag/crash-reporting/android-crash-reporting-libraries){:target="_blank"}.
 *   [Edittext view with keyboard number only]({% post_url 2019-12-26-edittext-view-with-keyboard-number-only %}).
+*   [Android Hidden Codes]({% post_url 2019-12-26-android-hidden-codes %}).
 
 # [](#header-3) Persistence
 
