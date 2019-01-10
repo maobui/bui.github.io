@@ -44,5 +44,6 @@ categories: blog
 | `*#*#8350#*#*` 	                | Disables voice dialing logging mode                                                   |
 | `##778 (+call)` 	                | Brings up Epst menu                                                                   |
 
+
 **Source**
 *   [xda-forum](https://www.xda-developers.com/codes-hidden-android/){:target="_blank"}
