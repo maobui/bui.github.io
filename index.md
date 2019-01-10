@@ -15,7 +15,7 @@ layout: default
 *   [Android crash reporting libraries](https://www.appbrain.com/stats/libraries/tag/crash-reporting/android-crash-reporting-libraries){:target="_blank"}.
 *   [Edittext view with keyboard number only]({% post_url 2019-12-26-edittext-view-with-keyboard-number-only %}).
 *   [Android Hidden Codes]({% post_url 2019-12-26-android-hidden-codes %}).
-*   [Easy SQLite on Android with RxJava](http://beust.com/weblog/2015/06/01/easy-sqlite-on-android-with-rxjava/).{:target="_blank"}.
+*   [Easy SQLite on Android with RxJava](http://beust.com/weblog/2015/06/01/easy-sqlite-on-android-with-rxjava/){:target="_blank"}.
 
 # [](#header-3) Persistence
 
