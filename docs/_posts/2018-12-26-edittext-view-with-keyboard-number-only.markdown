@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Edittext view with keyboard number only"
-date:   2019-12-26 23:44:36 +0700
+date:   2018-12-26 23:44:36 +0700
 categories: blog
 ---
 **After several tries, I got it! I'm setting the keyboard values programmatically like that**

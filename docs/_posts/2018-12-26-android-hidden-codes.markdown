@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Android Hidden Codes"
-date:   2019-12-26 23:44:36 +0700
+date:   2018-12-26 23:44:36 +0700
 categories: blog
 ---
 **To enter these codes just pull up the default dialer app and use your chubby fingers to press the correct buttons.**

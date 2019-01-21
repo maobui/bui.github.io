@@ -13,15 +13,17 @@ layout: default
 *   [New page](new-page).
 *   [Wellcome to jekyll]({% post_url 2018-12-03-welcome-to-jekyll %}).
 *   [Android crash reporting libraries](https://www.appbrain.com/stats/libraries/tag/crash-reporting/android-crash-reporting-libraries){:target="_blank"}.
-*   [Edittext view with keyboard number only]({% post_url 2019-12-26-edittext-view-with-keyboard-number-only %}).
-*   [Android Hidden Codes]({% post_url 2019-12-26-android-hidden-codes %}).
-*   [Easy SQLite on Android with RxJava](http://beust.com/weblog/2015/06/01/easy-sqlite-on-android-with-rxjava/){:target="_blank"}.
+*   [Edittext view with keyboard number only]({% post_url 2018-12-26-edittext-view-with-keyboard-number-only %}).
+*   [Android Hidden Codes]({% post_url 2018-12-26-android-hidden-codes %}).
+*   [Doing too much work on its main thread]({% post_url 2019-01-21-the-application-may-be-doing-too-much-work-on-its-main-thread %}).
+
 
 # [](#header-3) Persistence
 
 Exploring the strategies for data persistence:
 
 *   [Concurrent Database Access](docs/Concurrent Database Access)(Database).
+*   [Easy SQLite on Android with RxJava](http://beust.com/weblog/2015/06/01/easy-sqlite-on-android-with-rxjava/){:target="_blank"}.
 
 # [](#header-4) Libraries
 
