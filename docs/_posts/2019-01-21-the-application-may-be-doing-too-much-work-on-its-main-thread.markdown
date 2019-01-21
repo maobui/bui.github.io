@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "The application may be doing too much work on its main thread"
-date:   2018-12-26 23:44:36 +0700
+date:   2019-01-21 23:44:36 +0700
 categories: blog
 ---
 **Warning: The application may be doing too much work on its main thread
