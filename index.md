@@ -17,6 +17,8 @@ layout: default
 *   [Android Hidden Codes]({% post_url 2018-12-26-android-hidden-codes %}).
 *   [Doing too much work on its main thread]({% post_url 2019-01-21-the-application-may-be-doing-too-much-work-on-its-main-thread %}).
 
+*   [Android studio device file explorer permission denied]({% post_url 2020-01-24-android-studio-device-file-explorer-permission-denied %}).
+
 
 # [](#header-3) Persistence
 
