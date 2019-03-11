@@ -18,6 +18,7 @@ layout: default
 *   [Doing too much work on its main thread]({% post_url 2019-01-21-the-application-may-be-doing-too-much-work-on-its-main-thread %}).
 *   [Android studio device file explorer permission denied]({% post_url 2019-01-24-android-studio-device-file-explorer-permission-denied %}).
 *   [Jekyll pygments supported highlighters]({% post_url 2019-01-24-jekyll-pygments-supported-highlighters %}).
+*   [ViewPager with bottom dots]({% post_url 2019-03-11-viewpager-with-bottom-dots %}).
 
 
 # [](#header-3) Persistence
