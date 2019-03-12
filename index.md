@@ -19,6 +19,7 @@ layout: default
 *   [Android studio device file explorer permission denied]({% post_url 2019-01-24-android-studio-device-file-explorer-permission-denied %}).
 *   [Jekyll pygments supported highlighters]({% post_url 2019-01-24-jekyll-pygments-supported-highlighters %}).
 *   [ViewPager with bottom dots]({% post_url 2019-03-11-viewpager-with-bottom-dots %}).
+*   [How to run, let, also, apply in Kotlin]({% post_url 2019-03-12-kotlin-run-let-also-apply %}).
 
 
 # [](#header-3) Persistence
