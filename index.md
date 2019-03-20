@@ -20,6 +20,7 @@ layout: default
 *   [Jekyll pygments supported highlighters]({% post_url 2019-01-24-jekyll-pygments-supported-highlighters %}).
 *   [ViewPager with bottom dots]({% post_url 2019-03-11-viewpager-with-bottom-dots %}).
 *   [How to run, let, also, apply in Kotlin]({% post_url 2019-03-12-kotlin-run-let-also-apply %}).
+*   [Connectivity Live Data]({% post_url 2019-03-20-connectivity-live-data %}).
 
 
 # [](#header-3) Persistence
