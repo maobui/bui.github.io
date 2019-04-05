@@ -52,9 +52,13 @@ There are some approaches that you should choose depends on the situation
     The main gist of it is, it makes asynchronous code looks so much like synchronous
 
 Read more here:
+
 [8 ways to do asynchronous processing in Android and counting](https://android.jlelse.eu/8-ways-to-do-asynchronous-processing-in-android-and-counting-f634dc6fae4e){:target="_blank"}
+
 [The Evolution of Android Network Access](https://medium.com/@elye.project/the-evolution-of-android-network-access-1e199fc6e9a2){:target="_blank"}
-[Using a Thread Pool in Android]{https://medium.com/@frank.tan/using-a-thread-pool-in-android-e3c88f59d07f){:target="_blank"}
+
+[Using a Thread Pool in Android](https://medium.com/@frank.tan/using-a-thread-pool-in-android-e3c88f59d07f){:target="_blank"}
+
 [Managing Threads and Custom Services](https://guides.codepath.com/android/Managing-Threads-and-Custom-Services#handlerthread-caveats){:target="_blank"}
 
 **From**
