@@ -21,6 +21,7 @@ layout: default
 *   [ViewPager with bottom dots]({% post_url 2019-03-11-viewpager-with-bottom-dots %}).
 *   [How to run, let, also, apply in Kotlin]({% post_url 2019-03-12-kotlin-run-let-also-apply %}).
 *   [Connectivity Live Data]({% post_url 2019-03-20-connectivity-live-data %}).
+*   [The ways to do asynchronous processing in Android and counting]({% post_url 2019-04-05-asynchronous-processing-in-android %}).
 
 
 # [](#header-3) Persistence
