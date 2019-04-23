@@ -49,3 +49,11 @@ Test link
 *   [About page](/about).
 *   [Home page](/).
 
+# [](#header-6) App 
+
+Privacy policy
+
+*   [Privacy policy]({% post_url 2019-04-06-privacy-policy %}).
+*   [Terms and conditions]({% post_url 2019-04-06-terms-and-conditions %}).
+
+
