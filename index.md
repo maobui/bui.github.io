@@ -22,6 +22,7 @@ layout: default
 *   [How to run, let, also, apply in Kotlin]({% post_url 2019-03-12-kotlin-run-let-also-apply %}).
 *   [Connectivity Live Data]({% post_url 2019-03-20-connectivity-live-data %}).
 *   [The ways to do asynchronous processing in Android and counting]({% post_url 2019-04-05-asynchronous-processing-in-android %}).
+*   [Android Tools Attributes — Hidden Gems of Android Studio]({% post_url 2019-04-23-hidden-gems-of-android-studio %}).
 
 
 # [](#header-3) Persistence
