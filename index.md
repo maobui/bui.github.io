@@ -23,6 +23,7 @@ layout: default
 *   [Connectivity Live Data]({% post_url 2019-03-20-connectivity-live-data %}).
 *   [The ways to do asynchronous processing in Android and counting]({% post_url 2019-04-05-asynchronous-processing-in-android %}).
 *   [Android Tools Attributes — Hidden Gems of Android Studio]({% post_url 2019-04-23-hidden-gems-of-android-studio %}).
+*   [Android Tools Attributes — Hidden Gems of Android Studio]({% post_url 2019-05-24-create-adaptive %}).
 
 
 # [](#header-3) Persistence
