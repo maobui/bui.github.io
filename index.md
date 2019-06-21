@@ -42,6 +42,7 @@ Covers usage of more advanced third-party libraries and SDKs that save time and 
 *   [Display progress of multipart request with Retrofit and RxJava](https://medium.com/@PaulinaSadowska/display-progress-of-multipart-request-with-retrofit-and-rxjava-23a4a779e6ba){:target="_blank"} (Networking).
 *   [Kramdown Syntax](https://kramdown.gettalong.org/syntax.html#links-and-images){:target="_blank"} (Github Page).
 *   [Koin A pragmatic lightweight dependency injection framework for Kotlin developers](https://insert-koin.io/){:target="_blank"} (DI).
+*   [The things I’ve learned using Realm](https://blog.usejournal.com/the-things-ive-learned-using-realm-48ce774f5fbb){:target="_blank"} (Realm).
 
 # [](#header-5) Test Link 
 
