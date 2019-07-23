@@ -45,6 +45,7 @@ Covers usage of more advanced third-party libraries and SDKs that save time and 
 *   [Koin A pragmatic lightweight dependency injection framework for Kotlin developers](https://insert-koin.io/){:target="_blank"} (DI).
 *   [The things I’ve learned using Realm](https://blog.usejournal.com/the-things-ive-learned-using-realm-48ce774f5fbb){:target="_blank"} (Realm).
 *   [How to use Realm for Android like a champ, and how to tell if you’re doing it wrong](https://medium.com/@Zhuinden/how-to-use-realm-for-android-like-a-champ-and-how-to-tell-if-youre-doing-it-wrong-ac4f66b7f149#.zaoi1074a){:target="_blank"} (Realm).
+*   [Some libraries]({% post_url 2019-07-23-some-libraries %})(Other).
 
 # [](#header-5) Test Link 
 
