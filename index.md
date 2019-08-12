@@ -24,7 +24,7 @@ layout: default
 *   [The ways to do asynchronous processing in Android and counting]({% post_url 2019-04-05-asynchronous-processing-in-android %}).
 *   [Android Tools Attributes — Hidden Gems of Android Studio]({% post_url 2019-04-23-hidden-gems-of-android-studio %}).
 *   [Create app icons with Image Asset Studio]({% post_url 2019-05-24-create-adaptive %}).
-
+*   [Top 7 Methods of Data Encryption]({% post_url 2019-08-12-top-7-methods-of-data-encryption %}).
 
 # [](#header-3) Persistence
 
